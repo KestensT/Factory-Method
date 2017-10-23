@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Factory pattern.iml" filepath="$PROJECT_DIR$/.idea/modules/Factory pattern.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../Factory pattern/.idea/modules/Factory_pattern.iml" filepath="$PROJECT_DIR$/../Factory pattern/.idea/modules/Factory_pattern.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../Factory pattern/.idea/modules/Factory_pattern_main.iml" filepath="$PROJECT_DIR$/../Factory pattern/.idea/modules/Factory_pattern_main.iml" group="Factory_pattern" />
+      <module fileurl="file://$PROJECT_DIR$/../Factory pattern/.idea/modules/Factory_pattern_test.iml" filepath="$PROJECT_DIR$/../Factory pattern/.idea/modules/Factory_pattern_test.iml" group="Factory_pattern" />
+    </modules>
+  </component>
+</project>
